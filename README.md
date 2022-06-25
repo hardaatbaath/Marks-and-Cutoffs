@@ -7,13 +7,13 @@ In case of some human mistake in input, you can re-fill the previous names and m
 After the input, the program takes the sum of all the marks, and gives average marks.
 The program asks user for Cutoff marks, and then outputs a list of all the students who cleared the cutoff in descending order along with the grades.
 
-The grades given are:
+The grades given are:<br />
      A+ = >=95% <br />
      A  = >=90%<br />
      B+ = >=85%<br />
      B  = >=80%<br />
      C+ = >=75%<br />
-     C  = >=70%     <br />
+     C  = >=70%<br />
      D  = >=60%<br />
      E  = >=50%<br />
      F  = >=0%<br />
